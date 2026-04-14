@@ -43,25 +43,57 @@
 
 #  Paks
 
-### Pack Collections
 - Wayzz Paks Folder  
-- Solaris Paks → https://gofile.io/d/MR7cJa  
-- Stellar Paks → https://www.mediafire.com/folder/ulcxo0nc1d8ez/stellar+paks  
-- Retrac Paks → https://mega.nz/folder/L8Y12ACR#ZJrF-8cgw3Bn0ALkkWi3VA  
-- Vortyx Paks → https://mega.nz/folder/ilhnXBBT#Cf3pUzLf3TpmdaX6Kl8kag  
-- Cosmos Paks → https://drive.google.com/drive/folders/1aaTi5xLdvTlZ2u5Qzljog6V9g9o2ZHSO  
+   https://cdn.discordapp.com/attachments/1477321151691755665/1477471921821057075/WayzzPaksFolder.zip  
 
-### Individual Packs
-- QOR Ikonik (12.41)
-- Tozo Pack
-- Dark Minty Axe (14.30)
-- Red Mint Axe Effect
-- Minecraft World (6.31)
-- Rainbow Axe of Champions
-- Rainbow Starwand
-- ByZN Weapons Pack
-- GameCube Pickaxe Pack
-- Juice WRLD Skin Pack
+- Solaris Paks  
+   https://gofile.io/d/MR7cJa  
+
+- Stellar Paks  
+   https://www.mediafire.com/folder/ulcxo0nc1d8ez/stellar+paks  
+
+- Retrac Paks  
+   https://mega.nz/folder/L8Y12ACR#ZJrF-8cgw3Bn0ALkkWi3VA  
+
+- Vortyx Paks  
+   https://mega.nz/folder/ilhnXBBT#Cf3pUzLf3TpmdaX6Kl8kag  
+
+- Cosmos Paks  
+   https://drive.google.com/drive/folders/1aaTi5xLdvTlZ2u5Qzljog6V9g9o2ZHSO  
+
+---
+
+##  Individual Packs
+
+- QOR Ikonik (12.41)  
+   https://cdn.discordapp.com/attachments/1474025025827901566/1474025375842435289/qor_ikonik_12.41_p.pak  
+
+- Tozo Pack  
+  🔗 https://cdn.discordapp.com/attachments/1477321151691755665/1477474010546704384/pakchunkTozo-WindowsClient.pak  
+
+- Dark Minty Axe (14.30)  
+   https://cdn.discordapp.com/attachments/1471140376541790330/1471140610877558947/pakchunkDarkMintyAxe-WindowsClient.pak  
+
+- Red Mint Axe Effect  
+   https://cdn.discordapp.com/attachments/1471140376541790330/1471140830151704700/pakchunkCustomMinty-WindowsClient.pak  
+
+- Minecraft World (6.31)  
+   https://cdn.discordapp.com/attachments/1471141137703239762/1471141269958033460/pakchunkMCWorld-WindowsClient.pak  
+
+- Rainbow Axe of Champions  
+   https://cdn.discordapp.com/attachments/1471143112759054589/1471143274835218536/pakchunkFNCSPICK-WindowsClient.pak  
+
+- Rainbow Starwand  
+   https://cdn.discordapp.com/attachments/1471142803529793647/1471142970211307582/pakchunkRainbowWand-WindowsClient.pak  
+
+- ByZN Weapons Pack  
+   https://cdn.discordapp.com/attachments/1471141521964273821/1471141872511488140/ByZNWeapons_P.pak  
+
+- GameCube Pickaxe Pack  
+   https://cdn.discordapp.com/attachments/1320881632307183696/1320881633121009694/GameCube.zip  
+
+- Juice WRLD Skin Pack  
+   https://cdn.discordapp.com/attachments/1262169456688234668/1262169646648397904/FortniteGame.7z  
 
 ---
 
@@ -131,21 +163,46 @@
 
 ---
 
-# 🔧 DLLs
+##  Bots Dlls
 
-### Tools & Mods
-- Edit on Release / Reset on Release  
-- Disable Pre-Edits  
-- LargePakPatch  
-- Creative 19.10  
-- With Bots Packs (10.40 → 19.01)
+- 19.01 With Bots  
+   https://cdn.discordapp.com/attachments/1477312791143776448/1477312905899671764/19.01_With_bots.dll  
 
-### Sources
+- 13.40 With Bots  
+   https://cdn.discordapp.com/attachments/1471133960762556518/1471134104887234724/13.40_With_Bots.dll  
+
+- 12.41 With Bots  
+   https://cdn.discordapp.com/attachments/1477293525413527716/1477293675322147068/OGS-S12.dll  
+
+- 11.31 With Bots  
+   https://cdn.discordapp.com/attachments/1471133568003604732/1471133705841147904/11.31_With_bots.dll  
+
+- 10.40 With Bots  
+   https://cdn.discordapp.com/attachments/1471133404211708047/1471133540849680406/10.40_With_bots.dll  
+
+---
+##  Extra DLL Sources
+
 - https://github.com/v1rs3/ogfn-dlls  
 - https://github.com/angelcolon121/starfalldll  
 - https://github.com/acid179/cobalt-for-projectzero  
-- https://github.com/dricotec/EOR  
-- https://github.com/Local-UAE/EOR  
+- https://github.com/Local-UAE/EOR
+
+---
+
+##  Core Mods
+
+- Edit on Release / Reset on Release  
+   https://github.com/dricotec/EOR  
+
+- Disable Pre-Edits  
+   https://cdn.discordapp.com/attachments/1477292183072673987/1477292203054469222/DisablePreEdits.dll  
+
+- LargePakPatch  
+   https://cdn.discordapp.com/attachments/1477292231118295080/1477292246310326414/LargePakPatch.dll  
+
+- Creative 19.10  
+   https://cdn.discordapp.com/attachments/1477665895676510238/1477665940387790848/Creative_19.10.dll  
 
 ---
 
@@ -164,7 +221,7 @@
 
 ---
 
-# 🧩 OGFN Projects
+#  OGFN Projects
 
 ##  Small / Unreleased
 - https://discord.gg/irisfn  
