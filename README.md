@@ -191,7 +191,7 @@
 - https://discord.gg/YBRfxk8NfS  
 - https://discord.gg/stellarfn  
 - https://discord.gg/retrac  
-- discord.gg/erafn  
+- https://discord.gg/erafn  
 
 ---
 
