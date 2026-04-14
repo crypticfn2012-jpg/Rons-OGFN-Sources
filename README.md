@@ -240,7 +240,7 @@
 - https://discord.gg/GFdqq9znzh  
 - https://discord.gg/8jjfqCTwDc  
 - https://discord.gg/3tDWTkSDGf  
-
+- https://discord.gg/D9sFnEdDFG
 ##  Big Projects / Mainstream
 - https://discord.gg/dtuUBgqx  
 - https://discord.gg/eonfn  
