@@ -44,7 +44,7 @@
 #  Paks
 
 - Wayzz Paks Folder  
-   https://cdn.discordapp.com/attachments/1477321151691755665/1477471921821057075/WayzzPaksFolder.zip  
+  https://cdn.discordapp.com/attachments/1477321151691755665/1477471921821057075/WayzzPaksFolder.zip?ex=69df8d34&is=69de3bb4&hm=c295de96566090b182ed7c755085dfacce9de68a0d39dfe4639e45db5d319372& 
 
 - Solaris Paks  
    https://gofile.io/d/MR7cJa  
