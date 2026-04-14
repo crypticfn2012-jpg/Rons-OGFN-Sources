@@ -69,7 +69,7 @@
    https://cdn.discordapp.com/attachments/1474025025827901566/1474025375842435289/qor_ikonik_12.41_p.pak  
 
 - Tozo Pack  
-  🔗 https://cdn.discordapp.com/attachments/1477321151691755665/1477474010546704384/pakchunkTozo-WindowsClient.pak  
+   https://cdn.discordapp.com/attachments/1477321151691755665/1477474010546704384/pakchunkTozo-WindowsClient.pak  
 
 - Dark Minty Axe (14.30)  
    https://cdn.discordapp.com/attachments/1471140376541790330/1471140610877558947/pakchunkDarkMintyAxe-WindowsClient.pak  
