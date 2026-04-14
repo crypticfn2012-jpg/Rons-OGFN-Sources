@@ -1,6 +1,6 @@
 # 🟦 Rons OGFN Centre
 
-![OGFN Logo](./assets/ogfn_logo.png)
+![OGFN Logo](./ogfn_logo.png)
 
 >  The ultimate hub for OGFN tools, launchers, builds, servers, backends, DLLs, tutorials, and projects.
 
