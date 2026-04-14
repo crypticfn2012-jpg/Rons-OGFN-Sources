@@ -1,8 +1,8 @@
 # 🟦 Rons OGFN Centre
 
-![OGFN Logo](https://media.discordapp.net/attachments/1477314606673432619/1489213525816639498/ogfn_logo.png)
+![OGFN Logo](./assets/ogfn_logo.png)
 
-> 🚀 The ultimate hub for OGFN tools, launchers, builds, servers, backends, DLLs, tutorials, and community projects.
+>  The ultimate hub for OGFN tools, launchers, builds, servers, backends, DLLs, tutorials, and projects.
 
 ---
 
