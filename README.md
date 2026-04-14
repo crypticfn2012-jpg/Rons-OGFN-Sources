@@ -252,6 +252,12 @@
 
 ---
 
+##  Important Links
+
+-  Discord: https://discord.gg/jWAtruZ4HH
+-  Zocvz Launxher UI's:[Here](https://github.com/crypticfn2012-jpg/Zocvz-Launcher-ui-s)
+-  Rons Launcheer UI Collection:[Here](https://github.com/crypticfn2012-jpg/All-my-launcher-UI-s-for-ogfn)
+
 ##  Rons OGFN Centre
 
 > Built & Created by **Ron**  
