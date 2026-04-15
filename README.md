@@ -96,7 +96,13 @@
    https://cdn.discordapp.com/attachments/1262169456688234668/1262169646648397904/FortniteGame.7z  
 
 ---
+##  Bubble Builds/Mobile Builds
 
+>  **Collection:** Bubble Builds/Mobile Builds Archive  
+>  **Download:** https://www.mediafire.com/folder/y5ebsj6ym69wp/Bubble_Builds  
+
+**Description:**  
+A collection of Fortnite builds organized in one place.
 #  Builds
 
 - Aorux01 Fortnite Builds → https://github.com/Aorux01/all-fortnite-builds  
