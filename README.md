@@ -413,23 +413,6 @@ A collection of Fortnite builds organized in one place.
 
 ---
 
-# DLLs
-
-## Bots DLLs
-- 19.01 With Bots  
-  https://cdn.discordapp.com/attachments/1477312791143776448/1477312905899671764/19.01_With_bots.dll
-
-- 13.40 With Bots  
-  https://cdn.discordapp.com/attachments/1471133960762556518/1471134104887234724/13.40_With_Bots.dll
-
-- 12.41 With Bots  
-  https://cdn.discordapp.com/attachments/1477293525413527716/1477293675322147068/OGS-S12.dll
-
-- 11.31 With Bots  
-  https://cdn.discordapp.com/attachments/1471133568003604732/1471133705841147904/11.31_With_bots.dll
-
-- 10.40 With Bots  
-  https://cdn.discordapp.com/attachments/1471133404211708047/1471133540849680406/10.40_With_bots.dll
 
 ## Extra DLL Sources
 - https://github.com/v1rs3/ogfn-dlls
