@@ -1,6 +1,8 @@
-# 🟦 Rons OGFN Centre
+# 🟦 BOSS COMMUNITY!
 
-![OGFN Logo](./ogfn_logo.png)
+BOSS COMMUNITY: https://discord.gg/zHYSXbbkdp
+
+PROJECT BOSS:https://discord.gg/4ev866QdAd
 
 > The ultimate hub for OGFN tools, launchers, builds, servers, backends, DLLs, tutorials, and projects.
 
